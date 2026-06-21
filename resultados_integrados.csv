@@ -1,0 +1,61 @@
+type,query,title,DOI,authors,year
+keyword,+genAI+education,Beware of Genai Pitfalls in Education: The Effect of Genai Fluency on Genai Distortion Via Positive Affect,10.2139/ssrn.4954002,"['Yang', 'Zhang']",2024
+keyword,+genAI+education,The Ethical and Social Implications of GenAI in Higher Education,10.5040/9781350535824.ch-3,[],2026
+keyword,+genAI+education,Assessment and GenAI Tools,10.5040/9781350535824.ch-5,[],2026
+keyword,+genAI+education,An Overview of GenAI Tools,10.5040/9781350535824.ch-2,[],2026
+keyword,+genAI+education,Pedagogical Applications of GenAI Tools,10.5040/9781350535824.ch-4,[],2026
+keyword,+genAI+education,"Effective, Critical, Ethical: A Practical Framework for GenAI in Higher Education",10.14293/ffl26.000019.v1,"['Blommerde', 'Mitchell']",2026
+keyword,+genAI+education,"ATOC: Amplification, Transformation, Opportunities, and Challenges of GenAI in Higher Education",10.5220/0014921200004021,['Feldman-Maggor'],2026
+keyword,+genAI+education,"GenAI as a Learning Assistant, an Empirical Study in Higher Education",10.5220/0013199300003932,"['Spirgi', 'Seufert']",2025
+keyword,+genAI+education,GenAI and the Future of Higher Education: A Conference Overview,10.14712/23362189.2025.5095,['Posavec-Malok'],2026
+keyword,+genAI+education,Introduction,10.5040/9781350535824.ch-1,[],2026
+keyword,+rag+cybersecurity,Automating Threat Intelligence Analysis with Retrieval Augmented Generation (RAG) for Enhanced Cybersecurity Posture,10.21275/sr24502103758,['Pal Singh Shobhit'],2024
+keyword,+rag+cybersecurity,Exploring the Role of Retrieval-Augmented Generation (RAG) in Enhancing Cybersecurity Governance and Risk Compliance (GRC) Frameworks,10.2139/ssrn.5357871,['Ahmad Rana'],2025
+keyword,+rag+cybersecurity,AI-Driven Misinformation Mitigation: Implementation of RAG System for Hoax Detection and Cybersecurity in Indonesia,10.1109/icocics68032.2025.11383967,"['Wowor', 'Yakub', 'Indarjani']",2025
+keyword,+rag+cybersecurity,Reinforcement Learning Integrated Agentic RAG for Software Test Cases Authoring,10.1109/icaic67076.2026.11395683,['Hariharan'],2026
+keyword,+rag+cybersecurity,RETINA: RAG-Enhanced Threat Intelligence Analysis for Comprehensive Cybersecurity,10.1109/incsst64791.2025.11210358,"['Pandey', 'Ghosh', 'Arora', 'Naga Malleswari']",2025
+keyword,+rag+cybersecurity,Fine-tuning vs RAG: A Position Paper from the Perspective of LLM-based Cybersecurity Modeling,10.69709/caic.2026.155073,"['Uddin', 'Sarker']",2026
+keyword,+rag+cybersecurity,Network Packet Security Analysis Chatbot using SQL-RAG Approach and Cybersecurity-Tuned LLM,10.1109/icecce67514.2025.11258026,"['Briliyant', 'Javed', 'Cherdantseva']",2025
+keyword,+rag+cybersecurity,RAG-Driven Cybersecurity Intelligence: Leveraging Semantic Search for Improved Threat Detection,10.15662/ijrai.2023.0603003,"[None, 'Gandhi']",2023
+keyword,+rag+cybersecurity,YOLOv12-RAG-Qwen Hybrid Framework for Classroom Behavior Analysis,10.1109/isaics66888.2025.11350093,"['Huang', 'Ji', 'Liang', 'Gao', 'Li', 'Rong']",2025
+keyword,+rag+cybersecurity,Advanced Document Processing Using LLM and RAG: An Innovative Approach to Efficiency and Privacy,10.1109/icsc65596.2025.11140482,"['Kocot', 'Płonka', 'Hołda', 'Daniec', 'Nawrat']",2025
+keyword,+agentic+ai+health,Could Agentic AI Improve Access To Maternal Health Care?,10.1377/forefront.20250918.389224,[],2025
+keyword,+agentic+ai+health,Introduction to Enterprise Agentic AI,10.1007/979-8-8688-1542-3_1,"['Ranjan', 'Chembachere', 'Lobo']",2025
+keyword,+agentic+ai+health,Vector Databases in AI Applications in Enterprise Agentic AI,10.1007/979-8-8688-1542-3_6,"['Ranjan', 'Chembachere', 'Lobo']",2025
+keyword,+agentic+ai+health,Mastering Prompt Engineering in Enterprise Agentic AI,10.1007/979-8-8688-1542-3_5,"['Ranjan', 'Chembachere', 'Lobo']",2025
+keyword,+agentic+ai+health,Conclusion: The Age of Enterprise Agentic AI,10.1007/979-8-8688-1542-3_10,"['Ranjan', 'Chembachere', 'Lobo']",2025
+keyword,+agentic+ai+health,Architecting Agentic AI Systems with a Well-Architected Framework,10.1007/979-8-8688-1542-3_2,"['Ranjan', 'Chembachere', 'Lobo']",2025
+keyword,+agentic+ai+health,Ethical and Security Considerations in Enterprise Agentic AI,10.1007/979-8-8688-1542-3_7,"['Ranjan', 'Chembachere', 'Lobo']",2025
+keyword,+agentic+ai+health,Agentic AI Opportunities,10.4018/979-8-3373-1877-6.ch008,[],2025
+keyword,+agentic+ai+health,Case Studies: Agentic AI in Real-World Applications,10.1007/979-8-8688-1542-3_8,"['Ranjan', 'Chembachere', 'Lobo']",2025
+keyword,+agentic+ai+health,Enhancing LLMs for Agentic AI: RAG vs. Fine-Tuning,10.1007/979-8-8688-1542-3_4,"['Ranjan', 'Chembachere', 'Lobo']",2025
+author,+Yael+Feldman-Maggor,"ATOC: Amplification, Transformation, Opportunities, and Challenges of GenAI in Higher Education",10.5220/0014921200004021,['Feldman-Maggor'],2026
+author,+Yael+Feldman-Maggor,Identifying self-regulated learning in chemistry classes – a good practice report,10.1515/cti-2022-0036,['Feldman-Maggor'],2023
+author,+Yael+Feldman-Maggor,AI for chemistry teaching: responsible AI and ethical considerations,10.1515/cti-2024-0014,"['Blonder', 'Feldman-Maggor']",2024
+author,+Yael+Feldman-Maggor,Are They Ready to Teach? Generative AI as a Means to Uncover Pre-Service Science Teachers’ PCK and Enhance Their Preparation Program,10.1007/s10956-024-10180-2,"['Blonder', 'Feldman-Maggor', 'Rap']",2024
+author,+Yael+Feldman-Maggor,Efficiency vs. effectiveness,10.20851/ll.v8.60,"['Viberg', 'Feldman Maggor', 'Wong']",2026
+author,+Yael+Feldman-Maggor,What can be learned from lecturers’ knowledge and self-efficacy for online teaching during the Covid-19 pandemic to promote online teaching in higher education,10.1371/journal.pone.0275459,"['Blonder', 'Feldman-Maggor', 'Rap']",2022
+author,+Yael+Feldman-Maggor,Explainable AI for unsupervised machine learning: A proposed scheme applied to a case study with science teachers,10.35542/osf.io/3gqzk,"['Feldman-Maggor', 'Nazaretsky', 'Alexandron']",2024
+author,+Yael+Feldman-Maggor,Perspectives of Generative AI in Chemistry Education Within the TPACK Framework,10.1007/s10956-024-10147-3,"['Feldman-Maggor', 'Blonder', 'Alexandron']",2024
+author,+Yael+Feldman-Maggor,Explainable AI for Unsupervised Machine Learning: A Proposed Scheme Applied to a Case Study with Science Teachers,10.5220/0012687000003693,"['Feldman-Maggor', 'Nazaretsky', 'Alexandron']",2024
+author,+Yael+Feldman-Maggor,Seeing the Forest from the Trees: Unveiling the Landscape of Generative AI for Education Through Six Evaluation Dimensions,10.1007/978-3-031-72312-4_12,"['Feldman-Maggor', 'Cerratto-Pargman', 'Viberg']",2024
+author,+Suhail+Ahmad+Rana,Adversarial Artificial Intelligence in Industrial Control Systems: A Consequence-Oriented Gap Analysis of MITRE ATLAS,10.2139/ssrn.6055035,['Ahmad Rana'],2026
+author,+Suhail+Ahmad+Rana,Exploring the Role of Retrieval-Augmented Generation (RAG) in Enhancing Cybersecurity Governance and Risk Compliance (GRC) Frameworks,10.2139/ssrn.5357871,['Ahmad Rana'],2025
+author,+Suhail+Ahmad+Rana,Operationalizing AI Governance in Bulk Electric Systems: A Control-Level Gap Analysis of NERC CIP Using AAIGF-E,10.2139/ssrn.6711358,['Ahmad Rana'],2026
+author,+Suhail+Ahmad+Rana,AI Governance in Smart Grids and Industrial Automation: Integrating Retrieval-Augmented Generation (RAG) with Framework Mapping,10.2139/ssrn.5509958,['Ahmad Rana'],2025
+author,+Suhail+Ahmad+Rana,New Evidence Supporting Wolverhampton as the Location of the First Working Newcomen Engine,10.1179/175812109x449595,['Rana'],2009
+author,+Suhail+Ahmad+Rana,Henry Beighton — The Key to Unlocking the Early History of the Newcomen Engine,10.1080/17581206.2018.1462627,['Rana'],2017
+author,+Suhail+Ahmad+Rana,Comparing the efficacy of Morphine alone with Morphine and mgso4 in pain management after coronary artery bypass surgery,10.12669/pjms.342.14280,"['Ahmad', 'Ahmad', 'Hamid', 'Furqan']",2018
+author,+Suhail+Ahmad+Rana,Enhancing Diagnostic Accuracy and Management of Major Depressive Disorders via Tailored Musical Interventions and Neuro-acoustic Stimulation,10.47513/mmd.v18i2.1084,"['Shahzad', 'Rakesh Banal', 'Muheet Butt', 'Sanjeev Rana', 'Hilal Ahmad Wani', 'Suhail Ahmad']",2026
+author,+Suhail+Ahmad+Rana,THE EFFECTS OF SENTENCE WRITING AS SEMANTIC ELABORATION ON SECOND LANGUAGE LEXICAL ACQUISITION OF IRAQI EFL LEARNERS,10.56924/tasnim.s1.2025/29,['Suhail'],2025
+author,+Suhail+Ahmad+Rana,Myocardial protection with Glucose-Insulin-Potassiuminfusion during adult cardiac surgery,10.12669/pjms.332.12414,"['Ahmad', 'Altaf Ahmad', 'Ahsan Qureshi', 'Ahmad Raza Baig']",2017
+author,+Tania+Gentic,"Journalism, Media, Mass Culture",10.1017/9781108891226.025,['Gentic'],2022
+author,+Tania+Gentic,La excentricidad del texto: El carácter poético del Nuevo catecismo para indios remisos (review),10.1353/rvs.2012.0072,['Gentic'],2012
+author,+Tania+Gentic,"Realism, the Avant-Garde, and the Politics of Reading in Roberto Bolaño's<i>The Savage Detectives</i>",10.1080/00111619.2014.930014,['Gentic'],2015
+author,+Tania+Gentic,Auditory Culture in Early Twentieth-Century Spain,10.4324/9780367810207-47,['Gentic'],2025
+author,+Tania+Gentic,Geographies of the Ear,10.1215/9781478061021,['Gentic'],2025
+author,+Tania+Gentic,"Everyday Atlantic, The: Time, Knowledge, and Subjectivity in the Twentieth-Century Iberian and Latin American Newspaper Chronicle",10.1353/book28001,['Gentic'],2013
+author,+Tania+Gentic,Translocal Misreadings: Eugeni d’Ors in Latin America and Transatlantic Studies Today,10.1007/978-3-319-58208-5_10,['Gentic'],2017
+author,+Tania+Gentic,Beyond the Visual City: The Sound of Space in Fernando Pérez’s Suite Habana,10.1353/hir.2014.0019,['Gentic'],2014
+author,+Tania+Gentic,"Transatlantic Mysteries: Crime, Culture, and Capital in the “Noir Novels” of Paco Ignacio Taibo II and Manuel Vázquez Montalbán (review)",10.1353/rhm.2012.0023,['Gentic'],2012
+author,+Tania+Gentic,Geographies of the Ear,10.1515/9781478061021,['Gentic'],2025
